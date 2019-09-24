@@ -6,7 +6,7 @@ By using this work, you accept the following conditions:
 2. As NXS is fictional, so too is any data generated about it. You therefore agree not to treat it as real. In particular, the data in this repository should *not* be uploaded to OpenStreetMap.
 3. You are not officially associated with or endorsed by NXS Detroit or its creator(s), and agree to not represent yourself as such, unless you have written permission from the creator(s).
 
-This work is built upon data from OpenStreetMap. Such data is the copyright of (c) [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, and is available pre-modification in the [`base-data`](https://github.com/NXS-Detroit/NXS-OSM-Format-Files/tree/master/base-data) directory under the [ODbL](https://www.opendatacommons.org/licenses/odbl/).
+This work is built upon data from OpenStreetMap. Such data is the copyright of (c) [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, and is available pre-modification [on Google Drive](https://drive.google.com/file/d/1_nYgQ6-A_GAuxCGetLu5Aa_S-8FpEMDp/view?usp=drivesdk) - 314 MB compressed, 3 GB uncompressed - under the [ODbL](https://www.opendatacommons.org/licenses/odbl/).
 
 The fictional data added to the map is licensed under the MIT license, with the above exceptions. The original text of the MIT license is as follows, and shall be considered to be overridden by the above where applicable.
 
