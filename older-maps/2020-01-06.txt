@@ -1,0 +1,1 @@
+Due to the outbreak of COVID-19 that began during March 2020, all the changes that were planned for April 2020 got pushed back to July. The only change that remained was giving route 9 Nine Mile a Sunday schedule. Because of this, the 2020-01-06 version of the map is identical to the 2020-04-13 version (current as of this commit).
