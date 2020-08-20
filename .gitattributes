@@ -1,0 +1,2 @@
+base-data/NXS-Roads-2019.osm filter=lfs diff=lfs merge=lfs -text
+base-data/NXS-Roads-2019-COVID.osm filter=lfs diff=lfs merge=lfs -text
